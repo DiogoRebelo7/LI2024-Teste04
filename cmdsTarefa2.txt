@@ -1,0 +1,13 @@
+    1  pwd
+    2  git clone https://github.com/DiogoRebelo7/LI2024-Teste04.git
+    3  cd LI2024-Teste04
+    4  mk dir js
+    5  mkdir js
+    6  mkdir css
+    7  cd js
+    8  echo //ficheiro de script > script.js
+    9  touch ../css/style.css
+   10  cd..
+   11  cd ..
+   12  pwd
+   13  history > cmdsTarefa2.txt
